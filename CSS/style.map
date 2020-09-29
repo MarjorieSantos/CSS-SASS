@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		"$black: #000;\r\n\r\ndiv {\r\n    background: $black;\r\n    width: 50px;\r\n    height: 50px;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAEA,AAAA,GAAG,CAAC;EACA,UAAU,EAHN,IAAI;EAIR,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf"
+}
